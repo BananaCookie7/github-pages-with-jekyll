@@ -1,6 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "About Me"
 date: 2019-01-20
 ---
 
-This is my new website!
+Name: Katherine Lau
+Social media: none
