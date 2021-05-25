@@ -3,7 +3,7 @@ title: Home
 author: Katherine Lau
 email: klau@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  This is my first website.
+  
   
 # social links
 github_username:  BananaCookie7 # DO NOT include the @ character, or else the build will fail!
