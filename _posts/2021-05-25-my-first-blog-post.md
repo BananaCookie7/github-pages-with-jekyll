@@ -11,6 +11,16 @@ Social media: none
 
 Achievements:
 
-- I write stories in my free time.
+- I won 1st place for the Young Artist Music Competition.
 - I won a Gold Presidental Volunteer award for 2019-2020.
-- I played in Carnegie Hall.
+- I have played in Carnegie Hall before.
+
+Likes:
+
+- Reading
+- Writing stories
+- Drawing
+- The color red
+- Watermelon
+- Candy
+- White chocolate
